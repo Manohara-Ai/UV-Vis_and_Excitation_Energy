@@ -28,3 +28,6 @@ To run this project, you will need the following dependencies:
 ## Contributors
 
 B M Manohara @Manohara-Ai
+Sakshi AS
+Kushal S Gowda
+Nayana H
